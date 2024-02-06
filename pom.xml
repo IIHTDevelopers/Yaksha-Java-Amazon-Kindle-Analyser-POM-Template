@@ -11,6 +11,7 @@
 		<junit.platform.version>1.5.2</junit.platform.version>
 	</properties>
 	<dependencies>
+		//Write your dependencies here
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context-support</artifactId>
